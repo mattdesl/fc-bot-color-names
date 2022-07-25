@@ -1,0 +1,8 @@
+bower_components
+node_modules
+*.log
+.DS_Store
+.npmignore
+LICENSE.md
+.ping.json
+.env
