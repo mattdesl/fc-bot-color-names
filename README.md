@@ -6,7 +6,7 @@ A Farcaster bot that sends random color names to the network, using data from [m
 
 How it looks:
 
-<img src="docs/screen.png" />
+<img src="docs/screen2.png" />
 
 #### Note:
 
